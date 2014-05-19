@@ -1,4 +1,15 @@
 {
+  "name": "bootstrap-datepicker",
+  "version": "1.3.0",
+  "description": "Forked from http://www.eyecon.ro/bootstrap-datepicker",
+  "main": "js/bootstrap-datepicker.js",
+  "repository": {
+    "type" : "git",
+    "https://github.com/RomanovRoman/bootstrap-datepicker.git"
+  },
+  "engines" : {
+    "node" : ">=0.10.3 <0.12"
+  },
   "scripts": {
     "test": "grunt test"
   },
